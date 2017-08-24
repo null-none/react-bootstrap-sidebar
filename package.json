@@ -1,0 +1,21 @@
+{
+  "name": "react-bootstrap-sidebar",
+  "version": "0.0.1",
+  "description": "Sidebar react bootstrap component",
+  "main": "sidebar.js",
+  "keywords": [
+    "react",
+    "bootstrap",
+    "sidebar",
+    "react bootstrap sidebar"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.6",
+  },
+  "url" : "https://github.com/null-none/react-bootstrap-sidebar",
+  "author": "Dmitry Kalinin",
+  "license": "MIT"
+}
